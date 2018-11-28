@@ -5,3 +5,10 @@ E:\Projects\Snake\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyRe
 E:\Projects\Snake\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 E:\Projects\Snake\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 E:\Projects\Snake\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Projects\git-zmeika\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Projects\git-zmeika\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Projects\git-zmeika\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Projects\git-zmeika\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Projects\git-zmeika\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Projects\git-zmeika\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Projects\git-zmeika\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
